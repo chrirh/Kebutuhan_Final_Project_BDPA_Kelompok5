@@ -2,7 +2,7 @@ Kebutuhan_Final_Project_BDPA_Kelompok 5 -- Penugasan Final Project Big Data & Pr
 
 Topik : Prediksi Estimasi Gaji dan Analisis Kebutuhan Tech-Skills IT menggunakan Website JobStreet
 
-Demo Aplikasi 🔗 [https://namaproject.streamlit.app](https://datashetkelompok5okee.streamlit.app/)
+Demo Aplikasi 🔗 [https://datashetkelompok5okee.streamlit.app/)](https://datashetkelompok5okee.streamlit.app/)
 
 👥 Kelompok 5
   1. Natasya Nur Aqillah 	       24.11.6008
