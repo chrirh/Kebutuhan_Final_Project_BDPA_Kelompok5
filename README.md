@@ -1,5 +1,23 @@
-# Kebutuhan_Final_Project_BDPA_Kelompok5
-Penugasan Final Project Big Data &amp; Predictive Analytics dengan topik Prediksi Estimasi Gaji dan Analisis Kebutuhan Tech-Skills IT menggunakan Website JobStreet
+Kebutuhan_Final_Project_BDPA_Kelompok 5 -- Penugasan Final Project Big Data & Predictive Analytics
 
-Demo aplikasi:
-[https://namaproject.streamlit.app](https://datashetkelompok5okee.streamlit.app/)
+Topik : Prediksi Estimasi Gaji dan Analisis Kebutuhan Tech-Skills IT menggunakan Website JobStreet.
+Demo Aplikasi 🔗 https://namaproject.streamlit.app
+
+📂 Struktur Repository
+
+  📁 Scrapping
+  - Web scraping JobStreet
+  - Dataset hasil scraping
+  - Data cleaning
+
+- 📁 Colab
+  - Exploratory Data Analysis (EDA)
+  - Visualisasi Data
+  - Prediksi Gaji
+
+👥 Kelompok 5
+  1. Natasya Nur Aqillah 	24.11.6008
+  2. Sidiq Doyo Atmojo	24.11.6010
+  3. Riski Andika Setianto 	24.11.6032
+  4. Cahya Restu Pertiwi	24.11.6035
+  5. Ilham Khalik		24.11.6220
