@@ -6,7 +6,7 @@ Laporan UAS 🔗 https://ungu.in/LaporanUAS_Kelompok5_BigDataPredictiveAnalytics
 
 Demo Aplikasi 🔗 [https://datashetkelompok5okee.streamlit.app/)](https://datashetkelompok5okee.streamlit.app/)
 
-Canva 🔗 [https://canva.link/4eng34jcfkeas3m]
+Canva 🔗 https://canva.link/4eng34jcfkeas3m
 
 👥 Kelompok 5
   1. Natasya Nur Aqillah 	       24.11.6008
