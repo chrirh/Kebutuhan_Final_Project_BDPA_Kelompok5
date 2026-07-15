@@ -10,7 +10,7 @@ Demo Aplikasi 🔗 https://namaproject.streamlit.app
   - Dataset hasil scraping
   - Data cleaning
 
-- 📁 Colab
+  📁 Colab
   - Exploratory Data Analysis (EDA)
   - Visualisasi Data
   - Prediksi Gaji
