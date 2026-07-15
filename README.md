@@ -2,7 +2,7 @@ Penugasan Final Project Big Data & Predictive Analytics
 
 Topik : Prediksi Estimasi Gaji dan Analisis Kebutuhan Tech-Skills IT menggunakan Website JobStreet
 
-Laporan UAS 🔗 [ungu.in/LaporanUAS_Kelompok5_BigDataPredictiveAnalytics]
+Laporan UAS 🔗 https://ungu.in/LaporanUAS_Kelompok5_BigDataPredictiveAnalytics
 
 Demo Aplikasi 🔗 [https://datashetkelompok5okee.streamlit.app/)](https://datashetkelompok5okee.streamlit.app/)
 
